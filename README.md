@@ -10,13 +10,16 @@ I am a reliable, enthusiastic, and thorough individual with years of experience 
 
 *	API Reference Documentation
 *	API Conceptual Documentation:
-         - API Overviews
-	    - Getting Started Documentation
-	    - Authentication and Authorization
-	    - Status and Error Codes
-	    - Code Tutorials
-	    - Quick Reference Guides
-	    - API Glossaries
+
+        
+	* API Overviews
+	* Getting Started Documentation
+	* Authentication and Authorization
+	* Status and Error Codes
+	* Code Tutorials
+	* Quick Reference Guides
+	* API Glossaries
+	
 *	Agile Documentation Delivery
 *	Case Studies
 *	Copy
