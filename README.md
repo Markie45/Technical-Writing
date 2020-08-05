@@ -2,7 +2,7 @@
 
 I am a reliable, enthusiastic, and thorough individual with years of experience working in education, data analysis, content creation, and technical communication, and with proven experience in writing, editing, multitasking, and delivering to deadlines. My excellent writing skills have allowed me to work for numerous companies and clients across various fields, including Data Insights, Mobile, FinTech, Digital, and Pharma. Holding a Post Graduate Certificate in Technical Communication from the University of Limerick, Ireland, I currently work as a freelance technical writer for various clients. 
 
-**CAREER HISTORY**
+#### CAREER HISTORY
 
 **Freelance Technical Writer, Spain/Ireland/UK: 2020-Present**
 
@@ -125,27 +125,27 @@ I am a reliable, enthusiastic, and thorough individual with years of experience 
 
 *	Solicit client feedback to help improve their user experience of Online Help.
 
-**OTHER ROLES**
+#### OTHER ROLES
 
 *	Technical Writer and Content Developer at Do-it Mobile, Dublin, Ireland (2013-2015).
 *	Data Analyst Executive at Nielsen, Dublin, Ireland (2006-2013).
 *	English Teacher at the Department of Education, Dublin, Ireland (2003-2006). 
 
-**PORTFOLIO**
+#### PORTFOLIO
 
 *	[markiebtech.blog](https://markiebtech.blog/)  
 *	github.com
 
-**EDUCATION AND TRAINING**
+#### EDUCATION AND TRAINING
 
-### Course	College/Institution	Year
+**Course	College/Institution	Year**
 * Post Graduate Certificate in Technical Communication (Honours)	University of Limerick	2013
 		
 * Bachelor of Arts Degree in English Literature & Language, and History (Honours)	University of Limerick	2003
 		
 * Diploma in Teaching English as a Foreign Language (Honours)	University of Limerick	2002
 
-**RECENT COURSES**
+#### RECENT COURSES
 
 * Documenting APIs: A Guide for Technical Writers and Engineers
 
@@ -159,7 +159,7 @@ I am a reliable, enthusiastic, and thorough individual with years of experience 
 
 * Udemy: YAML Essentials
 
-**FURTHER SKILLS**
+#### FURTHER SKILLS
 
 * Microsoft Office 365	
 * Jira/Confluence	
