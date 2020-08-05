@@ -6,7 +6,9 @@ I am a reliable, enthusiastic, and thorough individual with years of experience 
 
 **CAREER HISTORY**
 
-**Freelance Technical Writer, Spain/Ireland/UK               2020-Present**
+**Freelance Technical Writer, Spain/Ireland/UK**
+
+**2020-Present**
 
 *	API Reference Documentation
 *	API Conceptual Documentation:
