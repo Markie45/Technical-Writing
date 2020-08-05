@@ -1,6 +1,6 @@
 ## My CV
 
-I am a reliable, enthusiastic, and thorough individual with years of experience working in education, data analysis, content creation, and technical communication, and with proven experience in writing, editing, multitasking, and delivering to deadlines. My excellent writing skills have allowed me to work for numerous companies and clients across various fields, including Data Insights, Mobile, FinTech, Digital, and Pharma. Holding a Post Graduate Certificate in Technical Communication from the University of Limerick, Ireland, I currently work as a freelance technical writer for various clients. 
+I am a reliable, enthusiastic, and thorough individual with years of experience working in education, data analysis, content creation, and technical communication, and with proven experience in writing, editing, multitasking, and delivering to deadlines. My excellent writing and tech skills have allowed me to work for numerous companies and clients across various fields, including Data Insights, Mobile, FinTech, Digital, and Pharma. Holding a Post Graduate Certificate in Technical Communication from the University of Limerick, Ireland, I currently work as a freelance technical writer for various multi-national clients. 
 
 #### CAREER HISTORY
 
