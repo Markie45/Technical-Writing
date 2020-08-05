@@ -45,14 +45,23 @@ I am a reliable, enthusiastic, and thorough individual with years of experience 
 **Technical Writer**	
 
 *	Plan, research, design, and write Product Overview documentation for the Roche Diabetes Care (RDC) flagship product: Accu-Chek® Smart Pix Online (Accu-Chek® SPOL).
+
 *	Plan, research, design, and write User Requirement Specification, Functional Requirement Specification, Validation Plan/Test Report and Testing documentation for the RDC Accu-Chek® SPOL Data Migration tool.
+
 *	Review, redesign, edit, and update developer created Accu-Chek® SPOL Technical Specification and Data Model Design documentation.
+
 *	Plan, research, design, and write Accu-Chek® SPOL Release Note documentation.
+
 *	Create, iteratively maintain and showcase the RDC Company Style Guide and ensure colleague written documentation follows the guide’s established tone of voice.
+
 *	Create and maintain documentation project pages on Confluence and Jira.
+
 *	Control the version and maintenance of in-house documentation on Roche’s Documentation Management system.
+
 *	Ensure scheduled release of documentation during the software product’s lifecycle.  
+
 *	Contribute to the improvement of various processes regarding the efficient delivery of documentation. 
+
 *	Communicate and collaborate daily with the various in-house and remote RDC teams, for example, QMS, Engineer, Product Manager and Project Management teams. 
  
 **Beabloo, Barcelona, Spain	2018**
