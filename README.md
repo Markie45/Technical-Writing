@@ -82,13 +82,17 @@ I am a reliable, enthusiastic, and thorough individual with years of experience 
 *	Deliver weekly status reports to the Training and Documentation manager.
 *	Create and maintain documentation status pages on internal wiki.
 *	Implement the Online Help Revision Project, a 12-month project delivering a revised Online Help consisting of 18 modules (3,500 – 4,000 screens). This includes:
-	Create new standards.
-o	Develop topic types for consistency.
-o	Research, write, and edit content for each module.
-o	Track project progression and report to senior management.
-o	Implement review edits.
-o	Liaise with internal stakeholders and communicate project progression to all clients.
-o	Build and deliver to all clients.
+	
+	
+	* Create new standards.
+	* Develop topic types for consistency.
+	* Research, write, and edit content for each module.
+	* Track project progression and report to senior management.
+	* Implement review edits.
+	* Liaise with internal stakeholders and communicate project progression to all clients.
+	* Build and deliver to all clients.
+	
+	
 o	Attain a deep knowledge of the products, Corporate Actions, SWIFT messaging, and the financial services industry through usability testing, certification and collaboration with SMEs.
 o	Impart Training and Documentation team developments and knowledge through a series of ‘Lunch and Learn’ and ‘Chalk Talks’.
 o	Deliver company-wide Online Help training.
