@@ -1,7 +1,5 @@
 ## My CV
 
-MARK BAILY
-
 I am a reliable, enthusiastic, and thorough individual with years of experience working in education, data analysis, content creation, and technical communication, and with proven experience in writing, editing, multitasking, and delivering to deadlines. My excellent writing skills have allowed me to work for numerous companies and clients across various fields, including Data Insights, Mobile, FinTech, Digital, and Pharma. Holding a Post Graduate Certificate in Technical Communication from the University of Limerick, Ireland, I currently work as a freelance technical writer for various clients. 
 
 **CAREER HISTORY**
@@ -41,8 +39,7 @@ I am a reliable, enthusiastic, and thorough individual with years of experience 
 *	User Onboarding Tutorials 
 *	User requirement Specifications
 
-**Roche Health and Digital, Barcelona, Spain	2018-2019**
-**Technical Writer**	
+**Technical Writer @ Roche Health and Digital, Barcelona, Spain:	2018-2019**
 
 *	Plan, research, design, and write Product Overview documentation for the Roche Diabetes Care (RDC) flagship product: Accu-Chek® Smart Pix Online (Accu-Chek® SPOL).
 
@@ -64,8 +61,7 @@ I am a reliable, enthusiastic, and thorough individual with years of experience 
 
 *	Communicate and collaborate daily with the various in-house and remote RDC teams, for example, QMS, Engineer, Product Manager and Project Management teams. 
  
-**Beabloo, Barcelona, Spain	2018**
-**Technical Writer & UX Writer**	
+**Technical and UX Writer @ Beabloo, Barcelona, Spain:	2018**
 
 *	Research, write, standardise, and implement internationalised UI text for digital products in collaboration with Beabloo’s Product Management, Engineering, and Interaction Design (UX) teams.
 
@@ -89,8 +85,7 @@ I am a reliable, enthusiastic, and thorough individual with years of experience 
 
 *	Remotely communicate and collaborate daily with various Beabloo teams across multiple time zones.
 
-**IHSMarkit (Information Mosaic), Dublin, Ireland	2015-2018**
-**Technical Writer** 	
+**Technical Writer @ IHSMarkit (Information Mosaic), Dublin, Ireland:	2015-2018**
 
 *	Plan, research, write, build, and deliver integrated Online Help for IHS Markit Information Mosaic’s two flagship products: IMActions and IMSecurities.
 
@@ -141,56 +136,56 @@ I am a reliable, enthusiastic, and thorough individual with years of experience 
 *	[markiebtech.blog](https://markiebtech.blog/)  
 *	github.com
 
-EDUCATION AND TRAINING
+**EDUCATION AND TRAINING**
 
-Course	College/Institution	Year
-- Post Graduate Certificate in Technical Communication (Honours)	University of Limerick	2013
+### Course	College/Institution	Year
+* Post Graduate Certificate in Technical Communication (Honours)	University of Limerick	2013
 		
-- Bachelor of Arts Degree in English Literature & Language, and History (Honours)	University of Limerick	2003
+* Bachelor of Arts Degree in English Literature & Language, and History (Honours)	University of Limerick	2003
 		
-- Diploma in Teaching English as a Foreign Language (Honours)	University of Limerick	2002
+* Diploma in Teaching English as a Foreign Language (Honours)	University of Limerick	2002
 
-Recent Courses
+**RECENT COURSES**
 
-- Documenting APIs: A Guide for Technical Writers and Engineers
+* Documenting APIs: A Guide for Technical Writers and Engineers
 
-- Udemy: Coding for Writers: Basic Coding (JavaScript)
+* Udemy: Coding for Writers: Basic Coding (JavaScript)
 
-- Python for Beginners: The Complete Course
+* Python for Beginners: The Complete Course
 
-- Udemy: API Technical Writing: JSON and XML for Writers
+* Udemy: API Technical Writing: JSON and XML for Writers
 
-- Codeacademy: Learn Python 2
+* Codeacademy: Learn Python 2
 
-- Udemy: YAML Essentials
+* Udemy: YAML Essentials
 
-FURTHER SKILLS
+**FURTHER SKILLS**
 
-- Microsoft Office 365	
-- Jira/Confluence	
-- HTML (Read/Basic Code)
-- GitHub
-- Git Bash
-- Markdown	
-- Adobe RoboHelp
-- WordPress CMS	
-- Postman
-- SnagIt
-- Slack	
-- PTC Windchill	
-- YAML 
-- Stoplight	
-- JavaScript (Read/Basic Code)	
-- Python (Read/Basic Code)
-- Swagger Editor
-- Open API 
-- Agile Scrum
-- Chicago Manual of Style
-- IBM Manual of Style
-- MS Manual of Style
-- Sublime Text	
-- Notepad ++	
-- Vim
+* Microsoft Office 365	
+* Jira/Confluence	
+* HTML (Read/Basic Code)
+* GitHub
+* Git Bash
+* Markdown	
+* Adobe RoboHelp
+* WordPress CMS	
+* Postman
+* SnagIt
+* Slack	
+* PTC Windchill	
+* YAML 
+* Stoplight Studio	
+* JavaScript (Read/Basic Code)	
+* Python (Read/Basic Code)
+* Swagger Editor
+* Open API 
+* Agile Scrum
+* Chicago Manual of Style
+* IBM Manual of Style
+* MS Manual of Style
+* Sublime Text	
+* Notepad ++	
+* Vim
 
 
 
