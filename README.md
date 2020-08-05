@@ -68,28 +68,46 @@ I am a reliable, enthusiastic, and thorough individual with years of experience 
 **Technical Writer & UX Writer**	
 
 *	Research, write, standardise, and implement internationalised UI text for digital products in collaboration with Beabloo’s Product Management, Engineering, and Interaction Design (UX) teams.
+
 *	Plan, research, design, write, and deliver audience-focused, how-to documentation; for example, user manuals, user help, user guides, onboarding documentation, and wiki content.
+
 *	Plan, research, design, write, and deliver a glossary of company-associated terminology, including that associated with the Digital Marketing and the Online to Offline Technology industries.
+
 *	Plan, research, design, write, and deliver a terminology database (functional and software terms) for Beabloo’s various products.
+
 *	Proofread, edit, and update historical UI text across Beabloo’s various product interfaces. Test Beabloo’s various product prototypes for any inconsistencies or issues in the products’ UI text, design, and usability, and make recommendations on any required updates and solutions.  
+
 *	Proofread, update, and redesign Beabloo’s existing end-user documentation.  
+
 *	Proofread, and enhance the readability of documentation translated from other languages. 
+
 *	Iteratively update end-user documentation to account for new product features, feature updates, and functionality changes.
+
 *	Deliver on-site technical writing training to members of Beabloo’s Localisation and Globalisation team.
+
 *	Research, write, and maintain Beabloo’s in-house Style Guide.
+
 *	Remotely communicate and collaborate daily with various Beabloo teams across multiple time zones.
 
 **IHSMarkit (Information Mosaic), Dublin, Ireland	2015-2018**
 **Technical Writer** 	
 
 *	Plan, research, write, build, and deliver integrated Online Help for IHS Markit Information Mosaic’s two flagship products: IMActions and IMSecurities.
+
 *	Plan, research, write, build, and deliver quarterly product release notes for IMActions and IMSecurities.
+
 *	Plan, research, write, build, and deliver the quarterly Delta Document (a master log of software functional changes) for IMActions and IMSecurities.
+
 *	Create, review, and edit high-quality end-user documentation.
+
 *	Review and edit client training documentation.
+
 *	Create and maintain company Style Guide.
+
 *	Deliver weekly status reports to the Training and Documentation manager.
+
 *	Create and maintain documentation status pages on internal wiki.
+
 *	Implement the Online Help Revision Project, a 12-month project delivering a revised Online Help consisting of 18 modules (3,500 – 4,000 screens). This includes:
 	
 	
@@ -102,22 +120,26 @@ I am a reliable, enthusiastic, and thorough individual with years of experience 
 	* Build and deliver to all clients.
 	
 	
-o	Attain a deep knowledge of the products, Corporate Actions, SWIFT messaging, and the financial services industry through usability testing, certification and collaboration with SMEs.
-o	Impart Training and Documentation team developments and knowledge through a series of ‘Lunch and Learn’ and ‘Chalk Talks’.
-o	Deliver company-wide Online Help training.
-o	Communicate and collaborate daily with other IHS Markit global teams.
-o	Solicit client feedback to help improve their user experience of Online Help.
+*	Attain a deep knowledge of the products, Corporate Actions, SWIFT messaging, and the financial services industry through usability testing, certification and collaboration with SMEs.
 
-OTHER ROLES
+*	Impart Training and Documentation team developments and knowledge through a series of ‘Lunch and Learn’ and ‘Chalk Talks’.
 
-o	Technical Writer and Content Developer at Do-it Mobile, Dublin, Ireland (2013-2015).
-o	Data Analyst Executive at Nielsen, Dublin, Ireland (2006-2013).
-o	English Teacher at the Department of Education, Dublin, Ireland (2003-2006). 
+*	Deliver company-wide Online Help training.
 
-PORTFOLIO
+*	Communicate and collaborate daily with other IHS Markit global teams.
 
-o	markiebtech.blog 
-o	github.com
+*	Solicit client feedback to help improve their user experience of Online Help.
+
+**OTHER ROLES**
+
+*	Technical Writer and Content Developer at Do-it Mobile, Dublin, Ireland (2013-2015).
+*	Data Analyst Executive at Nielsen, Dublin, Ireland (2006-2013).
+*	English Teacher at the Department of Education, Dublin, Ireland (2003-2006). 
+
+**PORTFOLIO**
+
+*	[markiebtech.blog](https://markiebtech.blog/)  
+*	github.com
 
 EDUCATION AND TRAINING
 
